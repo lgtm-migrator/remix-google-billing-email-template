@@ -3,6 +3,8 @@
 template repository that LLazyEmail using for creating email templates using react design system that we are building right now
 
 
+https://llazyemail.github.io/documentation/templates/google.html
+
 ```
 src
  - - Layouts
